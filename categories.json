@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Juegos de Estrategia",
+    "image": "assets/categories/strategy.jpg",
+    "slug": "estrategia"
+  },
+  {
+    "id": 2,
+    "name": "Juegos Familiares",
+    "image": "assets/categories/family.jpg",
+    "slug": "familiares"
+  },
+  {
+    "id": 3,
+    "name": "Juegos de Cartas",
+    "image": "assets/categories/cards.jpg",
+    "slug": "cartas"
+  },
+  {
+    "id": 4,
+    "name": "Juegos de Rol",
+    "image": "assets/categories/roleplay.jpg",
+    "slug": "rol"
+  }
+]
